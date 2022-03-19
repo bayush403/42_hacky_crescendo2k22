@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "398466680245",
+    "project_id": "research-paper-app-5c8d4",
+    "storage_bucket": "research-paper-app-5c8d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398466680245:android:f7433f9a4e4ff0b5f605fc",
+        "android_client_info": {
+          "package_name": "com.example.research_paper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398466680245-oqa8mv5n2cl2og8qbc4sqb1n30feki7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDznf08JHFXky3OjG-d6PS-7cA0CJt9G_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398466680245-oqa8mv5n2cl2og8qbc4sqb1n30feki7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398466680245:android:d56eab9d4b992522f605fc",
+        "android_client_info": {
+          "package_name": "com.example.research_paper_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398466680245-oqa8mv5n2cl2og8qbc4sqb1n30feki7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDznf08JHFXky3OjG-d6PS-7cA0CJt9G_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398466680245-oqa8mv5n2cl2og8qbc4sqb1n30feki7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398466680245:android:d06bde46460d2893f605fc",
+        "android_client_info": {
+          "package_name": "com.hacky.research"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398466680245-oqa8mv5n2cl2og8qbc4sqb1n30feki7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDznf08JHFXky3OjG-d6PS-7cA0CJt9G_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398466680245-oqa8mv5n2cl2og8qbc4sqb1n30feki7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
